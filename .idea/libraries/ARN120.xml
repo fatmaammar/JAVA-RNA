@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ARN120">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/run245931397/ARN.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
